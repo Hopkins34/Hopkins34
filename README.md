@@ -1,2 +1,2 @@
 <h1>About me!</h1>
-<p>I have no clue what im doing</p>
+<p>Im a web dev and I code HTML, CSS, and JavaScript!</p>
